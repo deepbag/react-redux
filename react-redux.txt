@@ -1,0 +1,21 @@
+What is React Redux? ( Redux is state management )
+what is State Management? ( Where data is stored and we can manage it )
+What is State? ( We can store the data in it )
+What is Data? ( Information )
+What is Array? ( Number, String )
+["hey","hey"] ( Array of String )
+[{"key":"value"},{"key":"value"}] ( Array of Object )
+
+useState
+Number, String, object, Array, Boolean
+const [] = useState(1)
+const [] = useState("")
+const [] = useState({
+	key: value
+})
+const [] = useState([])
+const [] = useState(true | false)
+
+
+counter ( action, reducer ) ( PLUS MINUS )
+cart ( action, reducer ) ( ADD DELETE )
